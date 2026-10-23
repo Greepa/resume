@@ -3,3 +3,7 @@ package.json
 package-lock.json
 *.log
 .DS_Store
+
+# 打印版简历（含证件照，仅本地使用，不发布）
+*打印版*.pdf
+*打印版*.PDF
